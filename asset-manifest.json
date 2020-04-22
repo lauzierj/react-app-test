@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-app-test/static/css/main.7dc2c717.chunk.css",
-    "main.js": "/react-app-test/static/js/main.2d5d01bb.chunk.js",
-    "main.js.map": "/react-app-test/static/js/main.2d5d01bb.chunk.js.map",
-    "runtime-main.js": "/react-app-test/static/js/runtime-main.f2a3c9a1.js",
-    "runtime-main.js.map": "/react-app-test/static/js/runtime-main.f2a3c9a1.js.map",
-    "static/css/2.f22687d4.chunk.css": "/react-app-test/static/css/2.f22687d4.chunk.css",
-    "static/js/2.7a6a432f.chunk.js": "/react-app-test/static/js/2.7a6a432f.chunk.js",
-    "static/js/2.7a6a432f.chunk.js.map": "/react-app-test/static/js/2.7a6a432f.chunk.js.map",
-    "index.html": "/react-app-test/index.html",
-    "precache-manifest.86bbaa1e56b5f241b6ae953610646a93.js": "/react-app-test/precache-manifest.86bbaa1e56b5f241b6ae953610646a93.js",
-    "service-worker.js": "/react-app-test/service-worker.js",
-    "static/css/2.f22687d4.chunk.css.map": "/react-app-test/static/css/2.f22687d4.chunk.css.map",
-    "static/css/main.7dc2c717.chunk.css.map": "/react-app-test/static/css/main.7dc2c717.chunk.css.map",
-    "static/js/2.7a6a432f.chunk.js.LICENSE.txt": "/react-app-test/static/js/2.7a6a432f.chunk.js.LICENSE.txt"
+    "main.css": "https://lauzierj.github.io/react-app-test/static/css/main.7dc2c717.chunk.css",
+    "main.js": "https://lauzierj.github.io/react-app-test/static/js/main.ddd52afb.chunk.js",
+    "main.js.map": "https://lauzierj.github.io/react-app-test/static/js/main.ddd52afb.chunk.js.map",
+    "runtime-main.js": "https://lauzierj.github.io/react-app-test/static/js/runtime-main.a73bdae9.js",
+    "runtime-main.js.map": "https://lauzierj.github.io/react-app-test/static/js/runtime-main.a73bdae9.js.map",
+    "static/css/2.f22687d4.chunk.css": "https://lauzierj.github.io/react-app-test/static/css/2.f22687d4.chunk.css",
+    "static/js/2.574b3ef9.chunk.js": "https://lauzierj.github.io/react-app-test/static/js/2.574b3ef9.chunk.js",
+    "static/js/2.574b3ef9.chunk.js.map": "https://lauzierj.github.io/react-app-test/static/js/2.574b3ef9.chunk.js.map",
+    "index.html": "https://lauzierj.github.io/react-app-test/index.html",
+    "precache-manifest.5ae2ceea60aaf106e6316ee1f54cd28f.js": "https://lauzierj.github.io/react-app-test/precache-manifest.5ae2ceea60aaf106e6316ee1f54cd28f.js",
+    "service-worker.js": "https://lauzierj.github.io/react-app-test/service-worker.js",
+    "static/css/2.f22687d4.chunk.css.map": "https://lauzierj.github.io/react-app-test/static/css/2.f22687d4.chunk.css.map",
+    "static/css/main.7dc2c717.chunk.css.map": "https://lauzierj.github.io/react-app-test/static/css/main.7dc2c717.chunk.css.map",
+    "static/js/2.574b3ef9.chunk.js.LICENSE.txt": "https://lauzierj.github.io/react-app-test/static/js/2.574b3ef9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f2a3c9a1.js",
+    "static/js/runtime-main.a73bdae9.js",
     "static/css/2.f22687d4.chunk.css",
-    "static/js/2.7a6a432f.chunk.js",
+    "static/js/2.574b3ef9.chunk.js",
     "static/css/main.7dc2c717.chunk.css",
-    "static/js/main.2d5d01bb.chunk.js"
+    "static/js/main.ddd52afb.chunk.js"
   ]
 }
